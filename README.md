@@ -30,7 +30,7 @@ No Activity tracked this Week
   <img align="left" alt="Akshat Kumar Quora" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
 </a><br/><br/>
 <p align="center">
-<!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
+<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> 
 </p>
 <br/><br/>
 
