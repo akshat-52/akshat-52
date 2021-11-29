@@ -26,12 +26,14 @@ No Activity tracked this Week
 <a href="#">
   <img align="left" alt="Akshat Kumar Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a>
+<a href="https://www.instagram.com/im_akkey/">
+  <img align="left" alt="Akshat Kumar Instagram" width="21px" src="https://www.flaticon.com/free-icon/instagram_1409946?term=instagram&page=1&position=17&page=1&position=17&related_id=1409946&origin=search" />
 <a href="#">
   <img align="left" alt="Akshat Kumar Quora" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
 </a><br/><br/>
-<p align="center">
+<!-- <p align="center">
 <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> 
-</p>
+</p> -->
 <br/><br/>
 
 
