@@ -14,10 +14,10 @@ No Activity tracked this Week
 <a href="https://twitter.com/im_akkey">
   <img align="left" alt="Akshat Kumar Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
-<!-- <a href="https://dev.to/coderjojo">
-  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
-</a> -->
 <a href="#">
+  <img align="left" alt="Akshat Kumar DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+</a>
+<a href="https://www.reddit.com/user/cinofilista/">
   <img align="left" alt="Akshat Kumar Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
 </a>
 <a href="https://www.linkedin.com/in/akshat-kumar-3221ab203/">
