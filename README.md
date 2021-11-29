@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Akshat Kumar.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=akshat-52.akshat-52)
 <!--
 **akshat-52/akshat-52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
