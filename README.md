@@ -10,24 +10,33 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+- 🔭 I’m currently pursuing M.Tech in Software Engineering at VIT Vellore
+- 🌱 I’m currently learning C++ and DSA
+- 👯 I’m looking to contribute in Open Source Projects
+- 💻 I’m Interested in Web Development
+- 💬 Ask me about Dogs, I am a cynophilist
+- 📫 How to reach me: 📧 akshatsatyam52@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am trying to be a pantomath
+
 ### Connect with me :smiley:
 <a href="https://twitter.com/im_akkey">
   <img align="left" alt="Akshat Kumar Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Akshat Kumar DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
-</a>
+<!--  <img align="left" alt="Akshat Kumar DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+</a> -->
 <a href="https://www.reddit.com/user/cinofilista/">
   <img align="left" alt="Akshat Kumar Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
 </a>
 <a href="https://www.linkedin.com/in/akshat-kumar-3221ab203/">
   <img align="left" alt="Akshat Kumar Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-<a href="#">
+<!-- <a href="#">
   <img align="left" alt="Akshat Kumar Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
-</a>
-<!-- <a href="https://www.instagram.com/im_akkey/">
-  <img align="left" alt="Akshat Kumar Instagram" width="21px" src="https://www.flaticon.com/free-icon/instagram_1409946?term=instagram&page=1&position=17&page=1&position=17&related_id=1409946&origin=search" />  -->
+</a> 
+<a href="https://www.instagram.com/im_akkey/">
+  <img align="left" alt="Akshat Kumar Instagram" width="21px" src="https://www.flaticon.com/free-icon/instagram_1409946?term=instagram&page=1&position=17&page=1&position=17&related_id=1409946&origin=search" />
 <a href="#">
   <img align="left" alt="Akshat Kumar Quora" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
 </a><br/><br/>
